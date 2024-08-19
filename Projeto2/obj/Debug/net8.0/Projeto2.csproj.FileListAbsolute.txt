@@ -1,0 +1,14 @@
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\bin\Debug\net8.0\Projeto2.exe
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\bin\Debug\net8.0\Projeto2.deps.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\bin\Debug\net8.0\Projeto2.runtimeconfig.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\bin\Debug\net8.0\Projeto2.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\bin\Debug\net8.0\Projeto2.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\refint\Projeto2.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\Projeto2.genruntimeconfig.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 5\Projeto2\obj\Debug\net8.0\ref\Projeto2.dll
