@@ -1,0 +1,28 @@
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.exe
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.deps.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.runtimeconfig.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\refint\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.genruntimeconfig.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\ConversaoUnidadesMetricas\obj\Debug\net8.0\ref\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.exe
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.deps.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.runtimeconfig.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\bin\Debug\net8.0\ConversaoUnidadesMetricas.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\refint\ConversaoUnidadesMetricas.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ConversaoUnidadesMetricas.genruntimeconfig.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 7\ConversaoUnidadesMetricas\obj\Debug\net8.0\ref\ConversaoUnidadesMetricas.dll
