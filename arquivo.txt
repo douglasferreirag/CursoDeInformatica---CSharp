@@ -1,0 +1,13 @@
+1 - Rio de Janeiro
+2 - São Paulo
+3 - Espírito Santo
+4 - Minas Gerais
+5 - Bahia
+6 - Tocantins
+7 - Roraima
+8 - Acre
+9 - Paraná
+10 - Santa Catarina
+11 - Rio Grande do Norte
+12 - Rio Grande do Sul
+13 - Amazonas

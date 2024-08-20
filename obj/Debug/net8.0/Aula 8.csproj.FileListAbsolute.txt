@@ -1,0 +1,14 @@
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\bin\Debug\net8.0\Aula 8.exe
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\bin\Debug\net8.0\Aula 8.deps.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\bin\Debug\net8.0\Aula 8.runtimeconfig.json
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\bin\Debug\net8.0\Aula 8.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\bin\Debug\net8.0\Aula 8.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.AssemblyInfoInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.AssemblyInfo.cs
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\refint\Aula 8.dll
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.pdb
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\Aula 8.genruntimeconfig.cache
+C:\Users\Dougl\Documents\Aulas de informática - slides\Avançadas\1 - Programação\6 - C#\projetos\Aula 8\obj\Debug\net8.0\ref\Aula 8.dll
